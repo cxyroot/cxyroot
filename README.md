@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-<!--
+姓名：root
+
+性别：男
+
+爱好：
+
+毕业学校：邢台学院
+
+专业：软件工程
+
+现在工作：教育行业开发
+
+专业技能：JAVA
+
+
+
 **cxyroot/cxyroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +28,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
